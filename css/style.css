@@ -486,12 +486,14 @@ margin-top: 3px;
     margin: 14px;
     padding: 25px;
     border-radius: 3px;
+	font-size: 30px;
     border: 1px boxed black;
 }
 .book .btn{
 	background: #bf2222;
 	color: white; 
 	    width: 406px  !important;
+	font-size: 35px;
 	
 	
 }
@@ -541,7 +543,7 @@ margin-top: 3px;
 }
 .bot .left-bot .company{
  	position: absolute;
-    top: 718px;
+    top: 705px;
     left: 75px;
     width: 43%;
     float: left;
@@ -557,8 +559,8 @@ margin-top: 3px;
     position: absolute;
     font-size: 35px;
     text-align: left;
-    top: 403px;
-    left: 1125px;
+    top: 370px;
+    left: 1100px;
 }
 .bot .right-bot .addr{
 	padding-bottom: 170px;
