@@ -480,6 +480,8 @@ margin-top: 3px;
 
 }
 .book .form form input{
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
 	width: 350px;
 	margin: 14px;
 	padding: 25px;
